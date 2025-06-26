@@ -15,14 +15,11 @@ order by c.name;
 
 select * from Customer_order_summary;
 
--- Now i want spent is more then 50000
 
 select * from Customer_order_summary where spent>50000;
 
--- Now i want spent between 25000 and 75000
 
 select * from Customer_order_summary where spent between 25000 and 75000;
 
--- now i want total orders more than 2 and spent between 25000 and 75000
 
 select * from Customer_order_summary where (spent between 25000 and 50000) and (total_orders >= 1);
