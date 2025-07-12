@@ -38,10 +38,5 @@ Monthly sales report
 
 Customer purchase summary
 
-💡 Advanced Features Added:
-customer_order_summary view
 
-GetProductSales stored procedure
-
-Trigger to update order total
 
