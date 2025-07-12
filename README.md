@@ -31,12 +31,5 @@ Triggers to maintain data integrity
 
 
 
-📊 Sample Queries:
-Total sales by product
-
-Monthly sales report
-
-Customer purchase summary
-
 
 
